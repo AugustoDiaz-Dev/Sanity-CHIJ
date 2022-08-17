@@ -1,2 +1,8 @@
 # Sanity-CHIJ
-React, NextJs, Sanity, Google Maps
+
+- React, 
+- NextJs, 
+- Sanity, 
+- groq
+- Google Maps, 
+- react-google-maps/api
